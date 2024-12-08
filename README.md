@@ -1,4 +1,4 @@
-# -MOBAIS-My-Open-Ai-Based-Artificial-Intelligence-System-For-Intelligent-Voice-Assistance-
+# -MOBAIS-My-Open-AI-Based-Artificial-Intelligence-System-For-Intelligent-Voice-Assistance-
  MOBAIS (My Open AI Based Artificial Intelligence System) 
 represents a groundbreaking fusion of cutting-edge audio technology and AI capabilities within Bluetooth 
 speakers. This work explores MOBAIS's innovative integration of natural language processing and voice 

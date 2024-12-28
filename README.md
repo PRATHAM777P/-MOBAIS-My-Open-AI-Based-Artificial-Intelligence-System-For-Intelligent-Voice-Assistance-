@@ -7,7 +7,6 @@ MOBAIS enhances user interaction by providing seamless audio quality and smart h
 At the intersection of AI and audio technology, MOBAIS offers a promising future of enriched, intuitive interactions that elevate the personal assistant experience.
 
 Key Skills:
-
 Python
 Natural Language Processing (NLP)
 Machine Learning (ML) Algorithms
